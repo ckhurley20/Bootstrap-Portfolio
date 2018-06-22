@@ -80,6 +80,8 @@ body {
   nav {
     float: right;
     margin-top: 25px;
+    background: #fff;
+    background-color: #fff;
   }
   
   nav a {
@@ -87,7 +89,7 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     line-height: 18px;
-    color: #999;
+    color: #666;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
@@ -140,6 +142,7 @@ body {
     position: relative;
     float: left;
     width: 274px;
+    height: 274px;
     margin: 20px 0 25px;
     overflow: auto;
   }
@@ -150,8 +153,10 @@ body {
   
   .work img {
     width: 100%;
-    border: 0 none;
+    height: 100%;
     opacity: 0.8;
+    border: 2px;
+    border-color: black;
   }
   
   .work h3 {
