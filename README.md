@@ -3,6 +3,6 @@ This is my portfolio made with bootstrap.
 
 To View:
 
-Clone repo.
+-Clone repo.
 
-Open up index.html in browser.
+-Open up index.html in browser.
